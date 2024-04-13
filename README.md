@@ -1,4 +1,5 @@
 # Learn-CPP
+This repository records my notes and code in the process of learning CPP
 
 >***The question isn't why I am learning CPP, but rather why you aren't learning CPP.***
 
