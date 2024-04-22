@@ -10,5 +10,5 @@ This repository records my notes and code in the process of learning CPP
 
 ## Reference
 
-1. [The one and only](http://www.research.att.com/-bs/)
+[The one and only](https://www.stroustrup.com/)
 
